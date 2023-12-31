@@ -1,5 +1,5 @@
 ## Haberler.com
-<br/>
+
 # [Canlı Link](https://haberler-sigma.vercel.app/)
 Proje istenen responsive özelliklerde yapıldı.
 - imagelar haberler.com dan alınmıştır.
