@@ -1,6 +1,6 @@
-[Canlı Link](https://haberler-sigma.vercel.app/)
+## Haberler.com
 <br/>
-Haberler.com
+#[Canlı Link](https://haberler-sigma.vercel.app/)
 Proje istenen responsive özelliklerde yapıldı.
 - imagelar haberler.com dan alınmıştır.
 - Mobile cihazlar için yine haberler.com sayfası örnek alınmaya çalışıldı.
